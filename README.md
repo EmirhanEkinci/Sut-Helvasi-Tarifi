@@ -1,2 +1,2 @@
-# S-t-Helvas-Tarifi
+# Sut-Helvasi-Tarifi
 Proje2
